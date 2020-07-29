@@ -1,2 +1,1 @@
-randpass=C:\stuff\aliases\utils\randpass.bat
-c=cls
+c=clear
